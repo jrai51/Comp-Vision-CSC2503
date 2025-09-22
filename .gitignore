@@ -1,7 +1,7 @@
-# Ignore Stanford Dogs dataset
-stanford-dogs-dataset/
-# Ignore Dog Breed Images dataset
-dog-breed-images/
+# # Ignore Stanford Dogs dataset
+# stanford-dogs-dataset/
+# # Ignore Dog Breed Images dataset
+# dog-breed-images/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints  
 # Ignore Python cache files
