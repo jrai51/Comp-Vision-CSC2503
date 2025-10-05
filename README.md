@@ -66,9 +66,10 @@ If you are missing these files, download them manually:
 | ----------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **`models/res10_300x300_ssd_iter_140000.caffemodel`** | OpenCV DNN Face Detector weights | [Download Here](https://github.com/opencv/opencv_3rdparty/blob/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel) |
 | **`models/deploy.prototxt.txt`**                      | Face detector architecture       | [Download Here](https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/deploy.prototxt)                                     |
-| **`goturn.caffemodel`**                               | GOTURN tracker weights           | [Download Here](https://www.dropbox.com/s/8u2p2y9byzmhrjl/goturn.caffemodel?dl=0)                                                           |
-| **`goturn.prototxt`**                                 | GOTURN model architecture        | [Download Here](https://github.com/spmallick/learnopencv/blob/master/goturn/goturn.prototxt)                                                |
-
+| **`goturn.caffemodel`**                               | GOTURN tracker weights           | [Download Here](https://github.com/Mogball/goturn-files)                                                           |
+| **`goturn.prototxt`**                                 | GOTURN model architecture        | [Download Here](https://github.com/Mogball/goturn-files)
 
 Once downloaded, place them in the project root (same directory as hw1.ipynb).
+
+
 
